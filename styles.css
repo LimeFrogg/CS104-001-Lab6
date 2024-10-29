@@ -1,4 +1,22 @@
 .static-box{
     background-color: lightgreen;
     position: static;
+    height:200px;
+    width:200px;
+}
+.relative-box{
+    background-color: lightpink;
+    position: relative;
+    left: 30px;
+    top:20px;
+    height:200px;
+    width:200px;
+}
+.absolute-box{
+    background-color: lightgray;
+    position: absolute;
+    top:10px;
+    left:15px;
+    height:200px;
+    width:200px;  
 }
