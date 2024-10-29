@@ -41,3 +41,10 @@
     height:150px;
     width: 200px;
 }
+.background-image-repeat{
+    background-image: url('dog.jpg');
+    height:300px;
+    width: 700px;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+}
