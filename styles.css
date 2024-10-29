@@ -48,3 +48,15 @@
     background-repeat: repeat-x;
     background-repeat: repeat-y;
 }
+.box1{
+    background-color: lightgoldenrodyellow;
+    height:200px;
+    width:200px;
+    z-index: 1;
+}
+.box2{
+    background-color: lightgoldenrodyellow;
+    height:200px;
+    width:200px;
+    z-index: 2;
+}
