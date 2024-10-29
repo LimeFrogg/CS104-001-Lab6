@@ -96,4 +96,25 @@
     width: 500px;
     background-color: lightgreen;
     flex-wrap: wrap;
+    border:solid black 2px;
+}
+.flex-container5{
+    display:flex;
+    height: 400px;
+    width: 500px;
+    background-color: lightgreen;
+    align-items: center;
+    border:solid black 2px;
+}
+.div1{
+    background-color: green;
+    height: 50px;
+}
+.div2{
+    background-color: blue;
+    height: 75px;
+}
+.div3{
+    background-color: brown;
+    height: 100px;
 }
