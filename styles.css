@@ -60,3 +60,15 @@
     width:200px;
     z-index: 2;
 }
+.flex-container{
+    display:flex;
+    height: 400px;
+    width: 500px;
+    background-color: lightgreen;
+    flex-direction:row;
+}
+.little{
+    height: 60px;
+    width: 50px;
+    background-color: lightpink;
+}
