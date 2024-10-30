@@ -114,6 +114,13 @@
     border:solid black 2px;
     align-content: center;
 }
+.flex-container7{
+    display:flex;
+    height: 400px;
+    width: 500px;
+    background-color: lightgreen;
+    border:solid black 2px;
+}
 .div1{
     background-color: green;
     height: 50px;
@@ -125,4 +132,9 @@
 .div3{
     background-color: brown;
     height: 100px;
+}
+.flex-grow{
+    background-color: blue;
+    height: 75px;
+    flex-grow: 2;
 }
